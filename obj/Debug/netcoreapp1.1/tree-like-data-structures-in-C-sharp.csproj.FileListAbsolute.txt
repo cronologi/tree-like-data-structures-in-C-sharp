@@ -1,0 +1,8 @@
+D:\MY_GIT_REPOS\tree-like-data-structures-in-C-sharp\bin\Debug\netcoreapp1.1\tree-like-data-structures-in-C-sharp.deps.json
+D:\MY_GIT_REPOS\tree-like-data-structures-in-C-sharp\bin\Debug\netcoreapp1.1\tree-like-data-structures-in-C-sharp.runtimeconfig.json
+D:\MY_GIT_REPOS\tree-like-data-structures-in-C-sharp\bin\Debug\netcoreapp1.1\tree-like-data-structures-in-C-sharp.runtimeconfig.dev.json
+D:\MY_GIT_REPOS\tree-like-data-structures-in-C-sharp\bin\Debug\netcoreapp1.1\tree-like-data-structures-in-C-sharp.dll
+D:\MY_GIT_REPOS\tree-like-data-structures-in-C-sharp\bin\Debug\netcoreapp1.1\tree-like-data-structures-in-C-sharp.pdb
+D:\MY_GIT_REPOS\tree-like-data-structures-in-C-sharp\obj\Debug\netcoreapp1.1\tree-like-data-structures-in-C-sharp.AssemblyInfo.cs
+D:\MY_GIT_REPOS\tree-like-data-structures-in-C-sharp\obj\Debug\netcoreapp1.1\tree-like-data-structures-in-C-sharp.dll
+D:\MY_GIT_REPOS\tree-like-data-structures-in-C-sharp\obj\Debug\netcoreapp1.1\tree-like-data-structures-in-C-sharp.pdb
